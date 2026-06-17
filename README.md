@@ -14,8 +14,9 @@ A real-time, interactive implementation of Conway's Game of Life built with **C+
 - **Built-in classic patterns** — load a Glider, a Pulsar oscillator, or a Gosper Glider Gun with a single keypress
 - **Random seeding** — generate a fresh random starting state instantly
 - **Toggleable grid overlay** for precise cell placement
+- 
 ## screenshot
-https://raw.githubusercontent.com/snehal-thombare08/Cellular-Automata-/main/Screenshot%202026-06-17%20122200.png
+![Game of Life Preview](https://raw.githubusercontent.com/snehal-thombare08/Cellular-Automata-/main/Screenshot%202026-06-17%20122200.png)
 
 ## 🎮 Controls
 
