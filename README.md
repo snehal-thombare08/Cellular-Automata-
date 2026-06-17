@@ -15,6 +15,7 @@ A real-time, interactive implementation of Conway's Game of Life built with **C+
 - **Random seeding** — generate a fresh random starting state instantly
 - **Toggleable grid overlay** for precise cell placement
 ## screenshot
+https://raw.githubusercontent.com/snehal-thombare08/Cellular-Automata-/main/Screenshot%202026-06-17%20122200.png
 
 ## 🎮 Controls
 
